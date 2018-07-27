@@ -22,3 +22,4 @@ Este grupo foi criado para unirmos forças pelas causas relacionadas a diversida
 - https://medium.com/@tathianadesigner
 - https://twitter.com/devsjavagirl
 - http://www.rubyladies.com.br/
+- https://mundopodcast.com.br/podprogramar/
