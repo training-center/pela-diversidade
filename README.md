@@ -11,8 +11,14 @@ Este grupo foi criado para unirmos forças pelas causas relacionadas a diversida
     - Links
         - Telegram - https://t.me/programandonagringa
         - Guia - https://programandonagringa.gitbook.io/guia/
-        - Github - https://github.com/lbighetti/programando-na-gringa
-
+        - Github - https://github.com/lbighetti/programando-na-gringa     
+- **Training Center**
+    - Sobre
+        - Uma comunidade para iniciantes em desenvolvimento de software
+        - Nós, como um grupo que pode fazer alguma diferença na sociedade, abraçamos a responsabilidade de ajudar minorias buscando apoiar comunidades carentes, mulheres na tecnologia, pessoas negras, comunidade LGBTQ+ ou qualquer outro grupo que sofra de alguma maneira para entrar ou trabalhar em nossa área.
+    - Links
+        - Site - https://trainingcenter.io/
+        - Nossas iniciativas: https://github.com/training-center/sobre
 
 # Links
 
