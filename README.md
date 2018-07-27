@@ -49,3 +49,4 @@ Se você sabe utilizar o GitHub basta abrir um Pull Request adicionando seu proj
 - https://medium.com/@tathianadesigner
 - https://twitter.com/devsjavagirl
 - http://www.rubyladies.com.br/
+- https://mundopodcast.com.br/podprogramar/
