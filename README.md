@@ -2,6 +2,27 @@
 
 Este grupo foi criado para unirmos forças pelas causas relacionadas a diversidade em comunidades de tecnologia.
 
+Adicione sua comunidade neste documento para ajudarmos em sua divulgação e fortalecer o movimento de inclusão.
+
+## Como adicionar minha comunidade
+
+Se você não tem conhecimento em GitHub, basta pedir para alguém adicionar os dados aqui.
+
+**Pessoas que podem ajudar**
+
+- Leandro Bighetti: https://twitter.com/LeandroBighetti
+- William Oliveira: https://twitter.com/woliveiras
+
+Se você sabe utilizar o GitHub basta abrir um Pull Request adicionando seu projeto em ordem alfabética com o seguinte formato:
+
+```markdown
+- **Nome da comunidade/iniciativa/projeto**
+    - Sobre
+        - Informações sobre seu projeto
+    - Links
+        - Links para participar do seu projeto
+```
+
 ## Comunidades
 
 - **Programando na Gringa**
