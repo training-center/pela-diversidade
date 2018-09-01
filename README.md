@@ -1,52 +1,21 @@
 # Pela Diversidade!
 
-Este grupo foi criado para unirmos forças pelas causas relacionadas a diversidade em comunidades de tecnologia.
+Este documento é uma tentativa de criar um guia de como deixarmos nossas comunidades mais inclusivas.
 
-Adicione sua comunidade neste documento para ajudarmos em sua divulgação e fortalecer o movimento de inclusão.
+Vamos discutir maneiras de deixar nossas comunidades melhores e adicionaremos nossas ideias aqui.
 
-## Como adicionar minha comunidade
+Na lista abaixo, no sido do Codamos, podemos encontrar diversas comunidades que já possuem um certo reconhecimento por serem inclusivas e acessíveis.
 
-Se você não tem conhecimento em GitHub, basta pedir para alguém adicionar os dados aqui.
+[Site do Codamos/Comunidades](https://www.codamos.club/comunidades).
 
-**Pessoas que podem ajudar**
+## Cadastre sua comunidade
 
-- Leandro Bighetti: https://twitter.com/LeandroBighetti
-- William Oliveira: https://twitter.com/woliveiras
+Para começar bem, você pode cadastrar sua comunidade no Codamos. Uma iniciativa com intuito de agrupar comunidades inclusivas e acessíveis.
 
-Se você sabe utilizar o GitHub basta abrir um Pull Request adicionando seu projeto em ordem alfabética com o seguinte formato:
+Cadastre através deste link: [meus eventos - Codamos](https://www.codamos.club/meu-evento).
 
-```markdown
-- **Nome da comunidade/iniciativa/projeto**
-    - Sobre
-        - Informações sobre seu projeto
-    - Links
-        - Links para participar do seu projeto
-```
+## Quero me juntar a iniciativa
 
-## Comunidades
+Se você é lider de alguma comunidade e deseja participar das nossas discussões, basta abrir uma issue neste repositório.
 
-- **Programando na Gringa**
-    - Sobre
-        - Grupo sobre Trabalho de Programadores(as) e TI no Exterior
-        - Criado para todas as pessoas que não se sentem à vontade em outros grupos e foruns desse assunto: mulheres, novatos na área, pessoas trans, pessoas negras, ou qualquer outra minoria em TI. 
-    - Links
-        - Telegram - https://t.me/programandonagringa
-        - Guia - https://programandonagringa.gitbook.io/guia/
-        - Github - https://github.com/lbighetti/programando-na-gringa     
-- **Training Center**
-    - Sobre
-        - Uma comunidade para iniciantes em desenvolvimento de software
-        - Nós, como um grupo que pode fazer alguma diferença na sociedade, abraçamos a responsabilidade de ajudar minorias buscando apoiar comunidades carentes, mulheres na tecnologia, pessoas negras, comunidade LGBTQ+ ou qualquer outro grupo que sofra de alguma maneira para entrar ou trabalhar em nossa área.
-    - Links
-        - Site - https://trainingcenter.io/
-        - Nossas iniciativas: https://github.com/training-center/sobre
-
-# Links
-
-- http://quebradev.com.br/
-- https://twitter.com/backendbrasil
-- https://twitter.com/AtemZero
-- https://medium.com/@tathianadesigner
-- https://twitter.com/devsjavagirl
-- http://www.rubyladies.com.br/
-- https://mundopodcast.com.br/podprogramar/
+Se você gerencia uma comunidade que existe em prol da diversidade e inclusão (mulheres em tecnologia, pessoas negras, acessibilidade, pessoas de baixa renda, LGBT+, etc), pode entrar em contato com @woliveiras diretamente no Telegram.
